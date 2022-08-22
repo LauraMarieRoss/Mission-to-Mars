@@ -1,7 +1,7 @@
 # Mission to Mars
 
 ## Project Overview
-TWeb scraping is a method used by organizations worldwide to extract online data for analysis. This project uses BeautifulSoup and Splinter to automate web browsing and scraping.  <br>
+Web scraping is a method used by organizations worldwide to extract online data for analysis. This project uses BeautifulSoup and Splinter to automate web browsing and scraping.  <br>
 <br>
 The project methods include:
 - Creating a simple HTML document to display a web page, linking to Bootstrap open source library for visual components.
